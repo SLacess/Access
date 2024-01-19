@@ -1,4 +1,4 @@
-# 👩‍🦽 Sienna: Accessibility Widget for Websites
+# 👩‍🦽 SLaccess: Accessibility Widget for Websites
 
 ![Banner Image](banner.png)
 
