@@ -9,7 +9,7 @@
 Sienna: accessibility widget for websites. easy to install, just copy and paste the plugin. Fast performance with lightweight plugin (~30kb).
 
 ## 🎉 Getting Started
-[View Demo](https://accessibility-widget.pages.dev)
+[View Demo](https:https://www.sinallink.com.br/site-acessivel))
 
 [Install the plugin quickly with just a copy and paste](https://accessibility-widget.pages.dev/#setup)
 
